@@ -1,0 +1,5 @@
+D:\DownloadRss\DownloadRss\bin\Debug\DownloadRss.exe.config
+D:\DownloadRss\DownloadRss\bin\Debug\DownloadRss.exe
+D:\DownloadRss\DownloadRss\bin\Debug\DownloadRss.pdb
+D:\DownloadRss\DownloadRss\obj\Debug\DownloadRss.exe
+D:\DownloadRss\DownloadRss\obj\Debug\DownloadRss.pdb
