@@ -1,6 +1,0 @@
-D:\ReadXml\ReadXml\bin\Debug\ReadXml.exe.config
-D:\ReadXml\ReadXml\bin\Debug\ReadXml.exe
-D:\ReadXml\ReadXml\bin\Debug\ReadXml.pdb
-D:\ReadXml\ReadXml\obj\Debug\ReadXml.csprojResolveAssemblyReference.cache
-D:\ReadXml\ReadXml\obj\Debug\ReadXml.exe
-D:\ReadXml\ReadXml\obj\Debug\ReadXml.pdb
