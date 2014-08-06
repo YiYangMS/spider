@@ -1,0 +1,15 @@
+﻿<Window x:Class="getMainByWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="800">
+    <Grid>
+        <Button x:Name="choosefile" Content="Choose File" HorizontalAlignment="Left" Height="34" Margin="697,140,0,0" VerticalAlignment="Top" Width="76" Click="choosefile_Click"/>
+        <ListView x:Name="operateList" HorizontalAlignment="Left" Height="299" Margin="10,10,0,0" VerticalAlignment="Top" Width="680">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn x:Name="title" Header="title" Width="680"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

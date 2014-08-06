@@ -1,0 +1,8 @@
+D:\getMainByCom\getMainByCom\bin\Debug\getMainByCom.exe.config
+D:\getMainByCom\getMainByCom\obj\Debug\getMainByCom.csprojResolveAssemblyReference.cache
+D:\getMainByCom\getMainByCom\bin\Debug\getMainByCom.exe
+D:\getMainByCom\getMainByCom\bin\Debug\getMainByCom.pdb
+D:\getMainByCom\getMainByCom\bin\Debug\getMaintext.dll
+D:\getMainByCom\getMainByCom\bin\Debug\getMaintext.pdb
+D:\getMainByCom\getMainByCom\obj\Debug\getMainByCom.exe
+D:\getMainByCom\getMainByCom\obj\Debug\getMainByCom.pdb

@@ -1,0 +1,15 @@
+D:\getMainByWPF\getMainByWPF\bin\Debug\getMainByWPF.exe.config
+D:\getMainByWPF\getMainByWPF\bin\Debug\getMainByWPF.exe
+D:\getMainByWPF\getMainByWPF\bin\Debug\getMainByWPF.pdb
+D:\getMainByWPF\getMainByWPF\obj\Debug\getMainByWPF.csprojResolveAssemblyReference.cache
+D:\getMainByWPF\getMainByWPF\obj\Debug\MainWindow.baml
+D:\getMainByWPF\getMainByWPF\obj\Debug\MainWindow.g.cs
+D:\getMainByWPF\getMainByWPF\obj\Debug\App.g.cs
+D:\getMainByWPF\getMainByWPF\obj\Debug\getMainByWPF_MarkupCompile.cache
+D:\getMainByWPF\getMainByWPF\obj\Debug\getMainByWPF.g.resources
+D:\getMainByWPF\getMainByWPF\obj\Debug\getMainByWPF.Properties.Resources.resources
+D:\getMainByWPF\getMainByWPF\obj\Debug\getMainByWPF.csproj.GenerateResource.Cache
+D:\getMainByWPF\getMainByWPF\obj\Debug\getMainByWPF.exe
+D:\getMainByWPF\getMainByWPF\obj\Debug\getMainByWPF.pdb
+D:\getMainByWPF\getMainByWPF\bin\Debug\getMaintext.dll
+D:\getMainByWPF\getMainByWPF\bin\Debug\getMaintext.pdb

@@ -1,0 +1,5 @@
+D:\getMaintext\getMaintext\obj\Debug\getMaintext.csprojResolveAssemblyReference.cache
+D:\getMaintext\getMaintext\bin\Debug\getMaintext.dll
+D:\getMaintext\getMaintext\bin\Debug\getMaintext.pdb
+D:\getMaintext\getMaintext\obj\Debug\getMaintext.dll
+D:\getMaintext\getMaintext\obj\Debug\getMaintext.pdb
